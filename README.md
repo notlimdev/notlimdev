@@ -1,4 +1,4 @@
-![banner](banner_full_github.png)
+[![banner](banner_full_github.png)](https://portfolio-milton-vergara-garcia.netlify.app)
 
 <h1 align="center">Hola 👋, soy Milton Vergara</h1>
 <h3 align="center">Desarrollador fullstack y entusiasta de la ciencia de datos y la inteligencia de negocios</h3>
