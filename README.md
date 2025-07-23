@@ -1,143 +1,22 @@
-<a
-  href="https://portfolio-milton-vergara-garcia.netlify.app"
-  target="_blank"
-  rel="noopener noreferrer">
-  <img
-    src="banner_full_github.png"
-    alt="banner profile notlimdev"/>
-</a>
+<a href="https://portfolio-milton-vergara-garcia.netlify.app" target="_blank" rel="noopener noreferrer"><img src="banner_full_github.png" alt="banner profile notlimdev"/></a>
 
 ---
 
 <div align="center">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=javascript"
-      height="60"
-      alt="tailwindcss logo"
-    />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=javascript" height="60" alt="tailwindcss logo"/></a>
+  <a href="https://dev.java/learn/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java" height="60" alt="tailwindcss logo"/></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"/></a>
+  <a href="https://nextjs.org/docs" target="_blank"rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"/>
+  <a href="https://tailwindcss.com/docs/installation/using-vite" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"/>
   </a>
-  <img width="12" />
-  <a
-    href="https://dev.java/learn/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=java"
-      height="60"
-      alt="tailwindcss logo"
-    />
+  <a href="https://www.postgresql.org/docs/current/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postgres" height="60" alt="graphql logo"/>
   </a>
-  <img width="12" />
-  <a
-    href="https://www.typescriptlang.org/docs/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=ts"
-      height="60"
-      alt="typescript logo"
-    />
+  <a href="https://laravel.com/docs/12.x" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=laravel" height="60" alt="go logo"/>
   </a>
-  <img width="12" />
-  <a
-    href="https://nextjs.org/docs"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=nextjs"
-      height="60"
-      alt="nextjs logo"
-    />
-  <img width="12" />
-  <a
-    href="https://tailwindcss.com/docs/installation/using-vite"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=tailwind"
-      height="60"
-      alt="tailwindcss logo"
-    />
-  </a>
-  <img width="12" />
-  <a
-    href="https://www.postgresql.org/docs/current/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-      <img
-        src="https://skillicons.dev/icons?i=postgres"
-        height="60"
-        alt="graphql logo"
-      />
-  </a>
-  <img width="12" />
-  <a
-      href="https://laravel.com/docs/12.x"
-      target="_blank"
-      rel="noopener noreferrer"
-  >
-      <img
-        src="https://skillicons.dev/icons?i=laravel"
-        height="60"
-        alt="go logo"
-      />
-  </a>
-  <img width="12" />
-  <a
-      href="https://devdocs.io/cpp/"
-      target="_blank"
-      rel="noopener noreferrer"
-  >
-      <img
-        src="https://skillicons.dev/icons?i=cpp"
-        height="60"
-        alt="rust logo"
-      />
-  </a>
-  <img width="12" />
-  <a
-      href="https://docs.flutter.dev/get-started/fundamentals"
-      target="_blank"
-      rel="noopener noreferrer"
-  >
-    <img
-        src="https://skillicons.dev/icons?i=flutter"
-        height="60" alt="nestjs logo"
-    />
-  </a>
-  <img width="12" />
-  <a
-      href="https://www.python.org/"
-      target="_blank" rel="noopener noreferrer"
-  >
-      <img
-        src="https://skillicons.dev/icons?i=py"
-        height="60"
-        alt="python logo"
-      />
-  </a>
-  <img width="12" />
-  <a
-      href="https://docs.aws.amazon.com/"
-      target="_blank"
-      rel="noopener noreferrer"
-  >
-      <img
-        src="https://skillicons.dev/icons?i=aws"
-        height="60"
-        alt="amazonwebservices logo"
-      />
-  </a>
+  <a href="https://devdocs.io/cpp/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=cpp" height="60" alt="rust logo"/></a>
+  <a href="https://docs.flutter.dev/get-started/fundamentals" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=flutter" height="60" alt="nestjs logo"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"/></a>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"/></a>
 </div>
 
 ---
