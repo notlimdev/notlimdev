@@ -1,7 +1,7 @@
 <a
   href="https://portfolio-milton-vergara-garcia.netlify.app"
   target="_blank"
-  rel="noopenner noreferrer">
+  rel="noopener noreferrer">
   <img
     src="banner_full_github.png"
     alt="banner profile notlimdev"/>
@@ -13,7 +13,7 @@
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://skillicons.dev/icons?i=javascript"
@@ -25,7 +25,7 @@
   <a
     href="https://dev.java/learn/"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://skillicons.dev/icons?i=java"
@@ -37,7 +37,7 @@
   <a
     href="https://www.typescriptlang.org/docs/"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://skillicons.dev/icons?i=ts"
@@ -49,7 +49,7 @@
   <a
     href="https://nextjs.org/docs"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://skillicons.dev/icons?i=nextjs"
@@ -60,7 +60,7 @@
   <a
     href="https://tailwindcss.com/docs/installation/using-vite"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://skillicons.dev/icons?i=tailwind"
@@ -72,7 +72,7 @@
   <a
     href="https://www.postgresql.org/docs/current/"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
       <img
         src="https://skillicons.dev/icons?i=postgres"
@@ -84,7 +84,7 @@
   <a
       href="https://laravel.com/docs/12.x"
       target="_blank"
-      rel="noopenner noreferrer"
+      rel="noopener noreferrer"
   >
       <img
         src="https://skillicons.dev/icons?i=laravel"
@@ -96,7 +96,7 @@
   <a
       href="https://devdocs.io/cpp/"
       target="_blank"
-      rel="noopenner noreferrer"
+      rel="noopener noreferrer"
   >
       <img
         src="https://skillicons.dev/icons?i=cpp"
@@ -108,7 +108,7 @@
   <a
       href="https://docs.flutter.dev/get-started/fundamentals"
       target="_blank"
-      rel="noopenner noreferrer"
+      rel="noopener noreferrer"
   >
     <img
         src="https://skillicons.dev/icons?i=flutter"
@@ -118,7 +118,7 @@
   <img width="12" />
   <a
       href="https://www.python.org/"
-      target="_blank" rel="noopenner noreferrer"
+      target="_blank" rel="noopener noreferrer"
   >
       <img
         src="https://skillicons.dev/icons?i=py"
@@ -130,7 +130,7 @@
   <a
       href="https://docs.aws.amazon.com/"
       target="_blank"
-      rel="noopenner noreferrer"
+      rel="noopener noreferrer"
   >
       <img
         src="https://skillicons.dev/icons?i=aws"
@@ -146,7 +146,7 @@
   <a
     href="https://www.credly.com/badges/ff675738-9ab4-4a00-adcd-2f7adae15c21/linked_in_profile"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"
@@ -157,7 +157,7 @@
   <a
     href="https://www.credly.com/badges/f03dd056-80e7-421e-b143-380a938cd9ad/linked_in_profile"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png"
@@ -175,7 +175,7 @@
   <a
     href="https://www.credly.com/badges/b78512fc-fcaf-440e-bff1-51b599048feb/linked_in_profile"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
       height="120"
@@ -185,7 +185,7 @@
   <a
     href="https://www.credly.com/badges/f406dd98-541c-49d2-8cad-20068cb2593b/linked_in_profile"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png"
@@ -196,7 +196,7 @@
   <a
     href="https://www.credly.com/badges/a900cab3-5b56-4863-93c2-fd7808ae08e6/linked_in_profile"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png"
@@ -207,7 +207,7 @@
   <a
     href="https://www.credly.com/badges/0ac8e05b-f6a7-488a-927a-e3535b6385d8/linked_in_profile"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://images.credly.com/size/340x340/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png"
@@ -219,7 +219,7 @@
   <a
     href="https://www.linkedin.com/learning/certificates/39a72104861124bc31d5407c0cd1776445c7fdc5db84331e5b6ce40381727542"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://i.postimg.cc/Y9xXBGrB/linkedin.png"
@@ -231,7 +231,7 @@
   <a
     href="https://www.udemy.com/certificate/UC-4c847316-4545-40a9-8bd3-551f90a65363/"
     target="_blank"
-    rel="noopenner noreferrer"
+    rel="noopener noreferrer"
   >
     <img
       src="https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/5153f2a3-c34e-47e1-b55b-dbe3c613b01b%2Fcertificate-designs%2Fpreviews%2F01k0d8yrwhcmtz63vtkknasncv-1752792261541.png"
@@ -239,33 +239,32 @@
       alt="certificado fullstack typescript"
     />
   </a>
-  <a
-    href="https://capacitateparaelempleo.org/verifica/4676f6bc-0cad-4033-80a3-4838248ee8de/6389fb8f-9b7a-4151-95ae-0fc73259ca1a"
-    target="_blank"
-    rel="noopenner noreferrer"
-  >
+  <a href="https://capacitateparaelempleo.org/verifica/4676f6bc-0cad-4033-80a3-4838248ee8de/6389fb8f-9b7a-4151-95ae-0fc73259ca1a" target="_blank" rel="noopener noreferrer">
     <img
       src="https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/5153f2a3-c34e-47e1-b55b-dbe3c613b01b%2Fcertificate-designs%2Fpreviews%2F01k0nqdwgmt6f75jys0rr2sgbz-1753075872292.png"
       height="120"
       alt="certificado desarrollador front-end"
     />
   </a>
-  <a href="">
+  <a href="https://capacitateparaelempleo.org/verifica/4676f6bc-0cad-4033-80a3-4838248ee8de/239c9124-bf24-4499-9b6d-d105b44907aa" target="_blank" rel="noopener noreferrer">
     <img
       src="https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/5153f2a3-c34e-47e1-b55b-dbe3c613b01b%2Fcertificate-designs%2Fpreviews%2F01k0da0x8dg920h3jfb34m8d16-1753075896274.png"
       height="120"
+      alt= "certificado desarrollador back-end"
     />
   </a>
-  <a>
+  <a href="https://campus-ademass.com/aut/11105" target="_blank" rel="noopener noreferrer">
     <img
       src="https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/5153f2a3-c34e-47e1-b55b-dbe3c613b01b%2Fcertificate-designs%2Fpreviews%2F01k0nsdysfyc4hvp4p6c37tdtp-1753084698754.png"
       height="140"
+      alt="certificado curso PHP & MySQL "
     />
   </a>
-  <a>
+  <a href="https://campus-ademass.com/aut/11099" target="_blank" rel="noopener noreferrer">
     <img
       src="https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/5153f2a3-c34e-47e1-b55b-dbe3c613b01b%2Fcertificate-designs%2Fpreviews%2F01k0ns56dr2djw5j16empvg9gj-1753077684686.png"
       height="140"
+      alt="certificado curso laravel"
     />
   </a>
 </div>
