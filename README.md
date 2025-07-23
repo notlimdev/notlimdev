@@ -1,6 +1,10 @@
+<!-- BANNER PERFIL -->
+
 <a href="https://portfolio-milton-vergara-garcia.netlify.app" target="_blank" rel="noopener noreferrer"><img src="banner_full_github.png" alt="banner profile notlimdev"/></a>
 
 ---
+
+<!-- MASTER TOOLS -->
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=javascript" height="60" alt="tailwindcss logo"/></a>
@@ -18,6 +22,8 @@
 
 ---
 
+<!-- CERTIFICATE BADGES -->
+
 <div align="center">
   <a href="https://www.credly.com/badges/ff675738-9ab4-4a00-adcd-2f7adae15c21/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" height="120" alt="certificado python essentials 1"/></a>
   <a href="https://www.credly.com/badges/f03dd056-80e7-421e-b143-380a938cd9ad/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" height="120" alt="certificado python Essentials 2"/></a>
@@ -34,18 +40,22 @@
   <a href="https://campus-ademass.com/aut/11099" target="_blank" rel="noopener noreferrer"><img src="https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/5153f2a3-c34e-47e1-b55b-dbe3c613b01b%2Fcertificate-designs%2Fpreviews%2F01k0ns56dr2djw5j16empvg9gj-1753077684686.png"height="140" alt="certificado curso laravel"/></a>
 </div>
 
+<!-- SOCIAL NETWORKS -->
+
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.linkedin.com/in/notlimdev/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://x.com/notlim_dev"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+  <a href="https://discord.gg/DhQdf3dK"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
+  <a href="https://www.twitch.tv/notlimdev"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  /></a>
+  <a href="https://portfolio-milton-vergara-garcia.netlify.app"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"/></a>
 </div>
 
 ###
 
+<!-- TOOLS FAVORITIES -->
+
 <details>
-  <summary>🛠️ My Favorite Tools</summary>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -150,8 +160,10 @@
 
 ###
 
+<!-- GITHUB ACTIVITY -->
+
 <details>
-  <summary>Stats</summary>
+  <summary><h2>Stats</h2></summary>
   <div align="center">
     <img src="https://streak-stats.demolab.com?user=notlimdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     <img src="https://github-profile-trophy.vercel.app?username=notlimdev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -167,6 +179,8 @@
 </picture>
 
 ###
+
+<!-- PROJECTS  -->
 
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
