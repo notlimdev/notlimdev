@@ -129,11 +129,16 @@
       <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+      <a href="#"><img alt="netlify" src="https://img.shields.io/badge/Netlify-00979D.svg?logo=Netlify&logoColor=white"></a>
+      <a href="#"><img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-430098.svg?logo=fly.io&logoColor=white"></a>
+      <a href="#"><img alt="Turso" src="https://img.shields.io/badge/Turso-2F8F57.svg?logo=turso&logoColor=white"></a>
+    <a href="#"><img alt="netlify" src="https://img.shields.io/badge/Netlify-00979D.svg?logo=neon&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
 
   <p>
+      <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/neovim-008678.svg?logo=neovim&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
