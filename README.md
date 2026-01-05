@@ -31,7 +31,7 @@
   <a href="https://www.credly.com/badges/b78512fc-fcaf-440e-bff1-51b599048feb/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" height="120" alt="certificado CCNA: Introduccion a Redes"/></a>
   <a href="https://www.credly.com/badges/f406dd98-541c-49d2-8cad-20068cb2593b/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" height="120" alt="certificado CCNA: Switching, Routing & Wireless Essentials"/></a>
   <a href="https://www.credly.com/badges/a900cab3-5b56-4863-93c2-fd7808ae08e6/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" height="120" alt="certificado CCNA: Introduction to Data Science"/></a>
-  <a href="https://www.credly.com/badges/0ac8e05b-f6a7-488a-927a-e3535b6385d8/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" height="120" alt="certificado Introduction to Generative AI"/></a>
+  <!-- <a href="https://www.credly.com/badges/0ac8e05b-f6a7-488a-927a-e3535b6385d8/linked_in_profile" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" height="120" alt="certificado Introduction to Generative AI"/></a> -->
   <a href="https://www.linkedin.com/learning/certificates/39a72104861124bc31d5407c0cd1776445c7fdc5db84331e5b6ce40381727542" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/Y9xXBGrB/linkedin.png" height="120" alt="certificado python Avanzado linkedin learning"/></a>
   <a href="https://www.udemy.com/certificate/UC-4c847316-4545-40a9-8bd3-551f90a65363/" target="_blank" rel="noopener noreferrer"><img src="https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/5153f2a3-c34e-47e1-b55b-dbe3c613b01b%2Fcertificate-designs%2Fpreviews%2F01k0d8yrwhcmtz63vtkknasncv-1752792261541.png" height="130" alt="certificado fullstack typescript"/></a>
   <a href="https://capacitateparaelempleo.org/verifica/4676f6bc-0cad-4033-80a3-4838248ee8de/6389fb8f-9b7a-4151-95ae-0fc73259ca1a" target="_blank" rel="noopener noreferrer"><img src="https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/5153f2a3-c34e-47e1-b55b-dbe3c613b01b%2Fcertificate-designs%2Fpreviews%2F01k0nqdwgmt6f75jys0rr2sgbz-1753075872292.png" height="120" alt="certificado desarrollador front-end"/></a>
@@ -184,7 +184,8 @@
     <a href="https://github.com/notlimdev/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=notlimdev&repo=AdminProyectosFrontendReact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="table2ascii"></a>
   </p>
 
-  <a href="https://github.com/notlimdev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/notlimdev?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
 </details>
 
 <!-- GITHUB ACTIVITY -->
